@@ -1,6 +1,8 @@
 
 # MODFLOW 6: USGS Modular Hydrologic Model
 
+> **Unofficial fork.** This repository is an unofficial fork of MODFLOW 6 that adds a `FULL_3D` option to the DISU package for fully unstructured 3D (Voronoi) grids, with native VTU output. It is **not maintained or endorsed by the USGS** or by the MODFLOW development team. See [NOTICE_FULL3D.md](NOTICE_FULL3D.md) for details, scope and how to cite. Official releases: [USGS MODFLOW page](https://water.usgs.gov/ogw/modflow/MODFLOW.html).
+
 This is the development repository for the USGS MODFLOW 6 Hydrologic Model. The  official USGS distribution is available at [USGS Release Page](https://water.usgs.gov/ogw/modflow/MODFLOW.html).
 
 ### Version 6.9.0.dev0
