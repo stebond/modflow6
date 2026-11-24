@@ -45,8 +45,9 @@ If this work is used, please cite the associated paper and the archived
 version of this repository:
 
 * Bonduà, S. (2026). *[Title of the paper, to be inserted].* [Journal, to be inserted].
-* Bonduà, S. (2026). MODFLOW 6 with FULL_3D DISU option (software).
-  Zenodo. [DOI, to be inserted].
+* Bonduà, S. (2026). MODFLOW 6 with FULL_3D DISU option for fully unstructured
+  3D grids (unofficial fork), version v0.1.0-full3d (software). Zenodo.
+  https://doi.org/10.5281/zenodo.24495201
 
 The original program should be cited as well, as indicated in
 [CITATION.cff](CITATION.cff) and in the
