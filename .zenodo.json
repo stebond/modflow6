@@ -1,0 +1,22 @@
+{
+  "title": "MODFLOW 6 with FULL_3D DISU option for fully unstructured 3D grids (unofficial fork)",
+  "upload_type": "software",
+  "description": "<p>Unofficial fork of MODFLOW 6 (MODFLOW-ORG/modflow6, <code>develop</code> 6.9.0.dev0, commit 6565dc81) adding a <code>FULL_3D</code> option to the DISU package. With this option, cells are general polyhedra defined by volume, cell centre and face connections (no cell top/bottom), so that fully unstructured 3D grids, such as 3D Voronoi grids, can be used for groundwater flow and transport, with native VTU output of geometry and results.</p><p>This software is not maintained, reviewed, approved or endorsed by the U.S. Geological Survey (USGS) or by the MODFLOW development team. The original MODFLOW 6 license and disclaimer are retained. Official MODFLOW 6 releases are available from the USGS.</p>",
+  "creators": [
+    {
+      "name": "Bonduà, Stefano",
+      "affiliation": "Department of Civil, Chemical, Environmental and Materials Engineering (DICAM), University of Bologna",
+      "orcid": "0000-0002-1632-5024"
+    }
+  ],
+  "license": "other-pd",
+  "keywords": ["MODFLOW 6", "groundwater modelling", "unstructured grid", "Voronoi", "DISU", "3D", "VTU"],
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://github.com/MODFLOW-ORG/modflow6",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ]
+}
